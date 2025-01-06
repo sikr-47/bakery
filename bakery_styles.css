@@ -73,7 +73,7 @@ nav ul li a:hover {
 
 /* Hero Section */
 .hero {
-    background-color: #fff4e6;
+    background-image: url(img/bakery-image1.jfif);
     position: relative;
     height: 100vh;
     text-align: center;
